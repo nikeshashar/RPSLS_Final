@@ -1,4 +1,8 @@
 
+###Play online!
+
+You can play Rock Paper Scissors Lizard Spock [online](http://rpslsfinal.herokuapp.com/) against the computer!
+
 ##What can you do with it?
   + Play Rock, Paper, Scissors, Lizard, Spock. 
   + Click on any of the logo's on the page to play against a randomised computer selection.
